@@ -17,7 +17,7 @@ Animation d'une scène en C++ et OpenGL comprenant une carte, une bounding box, 
 Implémentation d'un moteur de rendu avec Ray Tracing en C++
 
 ### Roborally (Licence 3ème année)
-Implémentation du jeu Roborally en C
+Implémentation du jeu Roborally en C (théorie des graphes, Algorithme de Dijkstra)
 
 ### Starcheese Trooper (Licence 2ème année
-Implementation d'un jeu vidéo en C et SDL
+Implementation d'un jeu vidéo 2D en C et SDL
