@@ -1,0 +1,29 @@
+# un fichier d'animation comporte :
+#   - le nombre de points de controle (par exemple ici 8 pts de controle)
+#   - les n points de controle
+# ATTENTION : 
+#   - le nb de point doit être un multiple de 4
+#   - les PdC sont regroupés par paquet de 4, le 4e PdC doit être identique au 5e, le 8e identique au 9e, le 12e identique au 13e, etc.
+#   - pas de ligne vide
+20
+70  5  84
+75  7  83
+80  9 80
+83  10  75
+83  10  75
+84  14  70
+82  18  -76
+79  20  -80
+79  20  -80
+75  15  -84
+70  12  -75
+-75  10  -83
+-75  10  -83
+-80  9  -80
+-76  8  -83
+-84  7  70
+-84  7  70
+-82  6  75
+-78  5 81
+70  5  84
+
