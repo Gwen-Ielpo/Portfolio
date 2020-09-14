@@ -5,10 +5,12 @@ Projets implémentés en C/C++
 Animation d'une scène en C++ et OpenGL comprenant une carte, une bounding box, des arbres, une météorite qui s'écrase et un système de particule simulant l'explosion
 
 ### Animation Personnage (Master 1ère année)
+Projet réalisé en C++ avec Gkit (une surcouche d'OpenGL)  
 * Animation basée squelette  
 * Déformation de maillage (skinning)  
 
 ### Animation d'objets déformables par modèles physiques (Master 1ère année)
+Projet réalisé en C++ avec Gkit (une surcouche d'OpenGL)  
 * Concepts physiques (forces, lois de Newton)  
 * Méthodes d'intégration numérique  
 * Détection et traitement de collisions simples  
