@@ -12,6 +12,12 @@ block.h
 sphere.h
 pyramid.h  
 
+#### Ray Tracing:
+
+1. Calculer le rayon allant de l'œil au pixel  
+1. Déterminer quels objets le rayon coupe  
+1. Calculer une couleur pour ce point d'intersection  
+
 
 ### Exemple 1
 <img src="https://github.com/Gwen-Ielpo/RayTracer/blob/master/render/render.PNG" width="500" height="300" />
