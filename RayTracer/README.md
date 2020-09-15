@@ -9,7 +9,7 @@ vec3.h : définition des fonctions permettant la création et manipulation des v
 hittable.h  
 rectangle.h  
 block.h  
-sphere.h
+sphere.h  
 pyramid.h  
 
 #### Ray Tracing:
